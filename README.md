@@ -2,6 +2,7 @@
 ## Part 1
 ## DOMAIN: 
 Automobile
+### Proejct Link:https://nbviewer.jupyter.org/github/shoaib555/Unsupervised-Learning/blob/main/uscar.ipynb
 ### CONTEXT: 
 The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes <br />
 ### DATA DESCRIPTION: 
