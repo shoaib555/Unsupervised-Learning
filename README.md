@@ -24,6 +24,7 @@ Goal is to cluster the data and treat them as individual datasets to train Regre
 ## Part 2
 ## DOMAIN: 
 Manufacturing
+### Project Link:https://nbviewer.jupyter.org/github/shoaib555/Unsupervised-Learning/blob/main/wine.ipynb
 ### CONTEXT:
 Company X curates and packages wine across various vineyards spread throughout the country.
 ### DATA DESCRIPTION:
@@ -38,6 +39,7 @@ Goal is to build a synthetic data generation model using the existing data provi
 ## Part 3
 ### DOMAIN:
 Automobile
+### Project Link:https://nbviewer.jupyter.org/github/shoaib555/Unsupervised-Learning/blob/main/vehicle.ipynb
 ### CONTEXT: 
 The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette.The vehicle may be viewed from one of many different angles.
 ### DATA DESCRIPTION: 
@@ -51,6 +53,7 @@ model using just the raw data.
 ## Part 4
 ### DOMAIN: 
 Sports management
+### Project Link:https://nbviewer.jupyter.org/github/shoaib555/Unsupervised-Learning/blob/main/IPL.ipynb
 ### CONTEXT: 
 Company X is a sports management company for international cricket.
 ### DATA DESCRIPTION: 
@@ -66,6 +69,7 @@ The data is collected belongs to batsman from IPL series conducted so far. Attri
 Goal is to build a data driven batsman ranking model for the sports management company to make business decisions.
 
 ## Part 5
+### Project Link:https://nbviewer.jupyter.org/github/shoaib555/Unsupervised-Learning/blob/main/image.ipynb
 Questions:
 1. List of all possible dimensionality reduction techniques that can be implemented using python.
 2. Dimensionality reduction illustration on Text Data
